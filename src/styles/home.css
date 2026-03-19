@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+header {
+    border: 1px solid red;
+}
